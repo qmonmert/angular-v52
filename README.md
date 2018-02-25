@@ -5,3 +5,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * ng new angular-v52
 * ng g universal angular-v52-universal
 * yarn
+* yarn add express @nguniversal/express-engine
+* node server.js or cd dist && http-server
